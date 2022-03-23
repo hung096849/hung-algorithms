@@ -1,0 +1,3 @@
+Insertion Sort là thuật toán sắp xếp chèn thêm một phần tử vào danh sách con đã qua sắp xếp. Phần tử được chèn vào vị trí thích hợp
+sao cho vẫn đảm bảo rằng danh sách con đó vẫn sắp theo thứ tự. Cũng như Bubble Sort, Insertion Sort không thích hợp sử dụng với các
+tập dữ liệu lớn

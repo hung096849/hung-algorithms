@@ -1,0 +1,5 @@
+đệ quy được hiểu đơn giản là một hàm gọi tới chính nó hoặc một hàm mà gọi tới hàm khác mà trả về lời gọi tới hàm ban đầu
+Một hàm đệ qui có thể tiếp tục diễn ra vô số lần giống như một vòng lặp vô hạn
+đệ quy và vòng lặp khá giống nhau nhưng đệ quy tối ưu hơn vòng lặp vì một hàm đệ qui có thể tiếp tục diễn ra vô số lần giống như
+một vòng lặp vô hạn
+Đệ quy khá phức tạp

@@ -1,0 +1,14 @@
+Giải thuật sắp xếp là sắp xếp dữ liệu theo một định dạng cụ thể. Trong khoa học máy tính, giải thuật sắp xếp xác định cách để sắp 
+xếp dữ liệu theo một thứ tự nào đó. Sắp xếp theo thứ tự ở đây là sắp xếp theo thứ tự dạng số hoặc thứ tự dạng chữ cái như trong từ
+điển.
+Tính quan trọng của việc sắp xếp dữ liệu nằm ở chỗ: việc tìm kiếm dữ liệu có thể được tối ưu nếu dữ liệu được sắp xếp theo một thứ
+tự nào đó (tăng hoặc giảm). Sắp xếp cũng được sử dụng để biểu diễn dữ liệu trong một định dạng dễ đọc hơn.
+Giải thuật toán sắp xếp có các khái niệm như: thứ tự tăng,thứ tự giảm,thứ tự không tăng, thứ tự không giảm
+
+Các giải thuật sắp xếp có thể cần thêm một số bộ nhớ phụ để so sánh và bộ nhớ tạm để lưu giữ một số phần tử dữ liệu.
+
+In-place sorting là giải thuật mà không yêu cầu thêm bất kỳ bộ nhớ phụ và việc sắp xếp được tiến hành trong chính phần bộ nhớ đã
+khai báo trước đó thì được gọi là. Ví dụ cho loại giải thuật sắp xếp này là giải thuật sắp xếp nổi bọt (bubble sorting).
+
+Not-in-place sorting là giải thuật chương trình cần thêm lượng bộ nhớ mà có thể lớn hơn hoặc bằng với số phần tử đang được sắp
+xếp.  Ví dụ cho loại giải thuật này là sắp xếp trộn (merge sort).

@@ -1,0 +1,5 @@
+Bubble Sort là thuật toán sắp xếp tráo đổi thứ tự nếu chúng không cùng một thứ tự
+Giải thuật này không thích hợp sử dụng với các tập dữ liệu lớn
+
+Bubble Sort là giải thuật chậm nhất trong số các giải thuật sắp xếp cơ bản. Giải thuật này còn chậm hơn giải thuật đổi chỗ trực
+tiếp mặc dù số lần so sánh bằng nhau, nhưng do đổi chỗ hai phần tử kề nhau nên số lần đổi chỗ nhiều hơn.
